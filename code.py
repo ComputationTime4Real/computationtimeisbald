@@ -1,0 +1,2 @@
+while True:
+    print("COMPUTATION TIME IS BALDDDDDING 4 REAAAAAAL")
